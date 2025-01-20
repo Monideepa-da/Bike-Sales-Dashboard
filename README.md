@@ -90,4 +90,4 @@ The Dashboard sheet may include elements that are not directly viewable as data 
 
 Contact
 
-For questions or further assistance, please contact [Your Name/Team] at [Your Email Address].# Bike-Sales-Dashboard
+For questions or further assistance, please contact Monideepa at monideepa.tak@gmail.com.# Bike-Sales-Dashboard
